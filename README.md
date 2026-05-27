@@ -1,2 +1,7 @@
 # HerHansHuber.github.io
-Personal bio page for HerHansHuber
+
+Personal bio page hosted with GitHub Pages.
+
+Live URL: https://HerHansHuber.github.io/
+
+Edit `index.html` to customize the page.
